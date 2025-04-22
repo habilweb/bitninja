@@ -1,7 +1,8 @@
 #!/bin/bash
-
-# Script de escaneo y limpieza con BitNinja
-# Autor: Hans + ChatGPT
+# BitNinja Full Malware Scan & Cleanup
+# Repositorio: https://github.com/habilweb/bitninja
+# Autor: Hansgallardo.com
+# Última actualización: 2025-04-21
 
 CUARENTENA="/root/malware_cuarentena"
 SOSPECHOSOS="/root/archivos_sospechosos.txt"
